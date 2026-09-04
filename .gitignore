@@ -1,0 +1,7 @@
+node_modules
+client/node_modules
+server/uploads
+.env
+client/dist
+server/data/*.sqlite
+server/data/*.db
